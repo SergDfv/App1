@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="activity2">Пункт 2</string>
+    <string name="hello">Приветствие</string>
+    <string name="create_new">Создать новый</string>
+    <string name="open">Открыть</string>
+</resources>
